@@ -103,10 +103,10 @@
           "build/Selenium.Chrome.WebDriver.targets": {}
         }
       },
-      "Selenium.Support/3.9.1": {
+      "Selenium.Support/3.14.0": {
         "type": "package",
         "dependencies": {
-          "Selenium.WebDriver": "3.9.1"
+          "Selenium.WebDriver": "3.14.0"
         },
         "compile": {
           "lib/netstandard2.0/WebDriver.Support.dll": {}
@@ -115,7 +115,7 @@
           "lib/netstandard2.0/WebDriver.Support.dll": {}
         }
       },
-      "Selenium.WebDriver/3.9.1": {
+      "Selenium.WebDriver/3.14.0": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "10.0.3"
@@ -1008,12 +1008,11 @@
         "selenium.chrome.webdriver.nuspec"
       ]
     },
-    "Selenium.Support/3.9.1": {
-      "sha512": "JNXfKWoJ32m2YYfDDlzS2IUMoUDmIs+yHRKobggD6mvyHbzFE27kOhnTfJP8dQzqc36VhEip6xwStDxvOpFEZg==",
+    "Selenium.Support/3.14.0": {
+      "sha512": "FhZzfKr1M9zcWWPaiWRTRB+7IC+m8oAUelI5tKn71LIO5aNWdYBv+oDnoyqYefvt5f+sj+jLE7EupOw9oy0rMQ==",
       "type": "package",
-      "path": "selenium.support/3.9.1",
+      "path": "selenium.support/3.14.0",
       "files": [
-        ".signature.p7s",
         "lib/net35/WebDriver.Support.dll",
         "lib/net35/WebDriver.Support.xml",
         "lib/net40/WebDriver.Support.dll",
@@ -1022,16 +1021,15 @@
         "lib/net45/WebDriver.Support.xml",
         "lib/netstandard2.0/WebDriver.Support.dll",
         "lib/netstandard2.0/WebDriver.Support.xml",
-        "selenium.support.3.9.1.nupkg.sha512",
+        "selenium.support.3.14.0.nupkg.sha512",
         "selenium.support.nuspec"
       ]
     },
-    "Selenium.WebDriver/3.9.1": {
-      "sha512": "y3SdRkwjmSL1BYXPtHKQ7pp4D4cFaeSea0opK65woodR5S4oxOCDBzuh+HRMhZ6QRt5Hanmx8extwN/frKn5Ig==",
+    "Selenium.WebDriver/3.14.0": {
+      "sha512": "hkNeyxU8S/cojFQfHg1R234R0GtYxJG1iJ403sRKiGSE/6mW3vHCvG3uUDwFqzoTfMNSChHymuSwsFbT1EAd6w==",
       "type": "package",
-      "path": "selenium.webdriver/3.9.1",
+      "path": "selenium.webdriver/3.14.0",
       "files": [
-        ".signature.p7s",
         "lib/net35/WebDriver.dll",
         "lib/net35/WebDriver.xml",
         "lib/net40/WebDriver.dll",
@@ -1040,7 +1038,7 @@
         "lib/net45/WebDriver.xml",
         "lib/netstandard2.0/WebDriver.dll",
         "lib/netstandard2.0/WebDriver.xml",
-        "selenium.webdriver.3.9.1.nupkg.sha512",
+        "selenium.webdriver.3.14.0.nupkg.sha512",
         "selenium.webdriver.nuspec"
       ]
     },
@@ -3229,8 +3227,8 @@
       "NUnit >= 3.11.0",
       "NUnitTestAdapter >= 2.1.1",
       "Selenium.Chrome.WebDriver >= 2.42.0",
-      "Selenium.Support >= 3.9.1",
-      "Selenium.WebDriver >= 3.9.1"
+      "Selenium.Support >= 3.14.0",
+      "Selenium.WebDriver >= 3.14.0"
     ]
   },
   "packageFolders": {
@@ -3294,11 +3292,11 @@
           },
           "Selenium.Support": {
             "target": "Package",
-            "version": "[3.9.1, )"
+            "version": "[3.14.0, )"
           },
           "Selenium.WebDriver": {
             "target": "Package",
-            "version": "[3.9.1, )"
+            "version": "[3.14.0, )"
           }
         },
         "imports": [
