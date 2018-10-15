@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\workProject\\DeloitteWeb\\DeloitteWebLib.csproj",
+      "projectUniqueName": "L:\\Deloitte\\DeloitteWeb\\DeloitteWebLib.csproj",
       "projectName": "DeloitteWebLib",
-      "projectPath": "L:\\workProject\\DeloitteWeb\\DeloitteWebLib.csproj",
+      "projectPath": "L:\\Deloitte\\DeloitteWeb\\DeloitteWebLib.csproj",
       "packagesPath": "C:\\Users\\aliev\\.nuget\\packages\\",
-      "outputPath": "L:\\workProject\\DeloitteWeb\\obj\\",
+      "outputPath": "L:\\Deloitte\\DeloitteWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
