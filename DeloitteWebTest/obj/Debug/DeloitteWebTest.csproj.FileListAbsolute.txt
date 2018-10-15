@@ -1,0 +1,2 @@
+L:\Deloitte\DeloitteWebTest\obj\Debug\DeloitteWebTest.csprojAssemblyReference.cache
+L:\Deloitte\DeloitteWebTest\obj\Debug\DeloitteWebTest.csproj.CoreCompileInputs.cache

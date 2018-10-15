@@ -1,0 +1,11 @@
+L:\Deloitte\DeloitteWeb\bin\Debug\netstandard2.0\DeloitteWebLib.deps.json
+L:\Deloitte\DeloitteWeb\bin\Debug\netstandard2.0\DeloitteWebLib.dll
+L:\Deloitte\DeloitteWeb\obj\Debug\netstandard2.0\DeloitteWebLib.csprojAssemblyReference.cache
+L:\Deloitte\DeloitteWeb\obj\Debug\netstandard2.0\DeloitteWebLib.csproj.CoreCompileInputs.cache
+L:\Deloitte\DeloitteWeb\obj\Debug\netstandard2.0\DeloitteWebLib.AssemblyInfoInputs.cache
+L:\Deloitte\DeloitteWeb\obj\Debug\netstandard2.0\DeloitteWebLib.AssemblyInfo.cs
+L:\Deloitte\DeloitteWeb\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+L:\Deloitte\DeloitteWeb\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+L:\Deloitte\DeloitteWeb\bin\Debug\netstandard2.0\nunit.engine.dll
+L:\Deloitte\DeloitteWeb\bin\Debug\netstandard2.0\nunit.engine.api.dll
+L:\Deloitte\DeloitteWeb\bin\Debug\netstandard2.0\Mono.Cecil.dll
