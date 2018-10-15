@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeloitteWebLib", "DeloitteWeb\DeloitteWebLib.csproj", "{A3D115B7-5593-4EF8-B852-D57ADB199854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeloitteWebTest", "DeloitteWebTest\DeloitteWebTest.csproj", "{C6B3D457-2260-43A4-8ABF-DD01C5C62850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D115B7-5593-4EF8-B852-D57ADB199854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D115B7-5593-4EF8-B852-D57ADB199854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D115B7-5593-4EF8-B852-D57ADB199854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D115B7-5593-4EF8-B852-D57ADB199854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B3D457-2260-43A4-8ABF-DD01C5C62850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B3D457-2260-43A4-8ABF-DD01C5C62850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B3D457-2260-43A4-8ABF-DD01C5C62850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B3D457-2260-43A4-8ABF-DD01C5C62850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4125A5D-9665-4076-8FC4-B97640F11186}
+	EndGlobalSection
+EndGlobal
